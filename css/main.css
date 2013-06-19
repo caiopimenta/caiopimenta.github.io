@@ -57,3 +57,9 @@ span {
 	font-size: 70px;
 	outline: 0;
 }
+
+.Novecentowide-Normal { 
+	font-family: Novecentowide-Normal;
+	font-weight: lighter;
+	font-style: normal;
+}
