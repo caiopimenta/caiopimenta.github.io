@@ -47,6 +47,10 @@ div.content {
 	text-align: center;
 }
 
+div.icons {
+	margin-bottom: 32px;
+}
+
 span {
 	padding-left: 15px;
 	padding-right: 15px;
